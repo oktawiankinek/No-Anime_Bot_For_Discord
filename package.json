@@ -1,0 +1,8 @@
+{
+“name”: “NoAnimeBot”,
+“version”: “1.0.0”,
+“description”: “Bot maked by No Anime Programmers Team”,
+“main”: “bot.js”,
+“author”: “No Anime Programmers Team”,
+“dependencies”: {}
+}
